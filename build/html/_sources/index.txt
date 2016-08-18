@@ -3,20 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Personal Hompepage's documentation!
-==============================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
-Indices and tables
+Philipp Eisenhauer
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+I am 
+Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/curriculum_vitae.pdf>`_ for more details.
+
+Working Papers
+^^^^^^^^^^^^^^
+
+Eisenhauer, P. (2016). Risk and Ambiguity in Dynamic Models of Educational Choice. Unpublished Manuscript.
+
+*	I instill a fear of model misspecification into the agents of a finite-horizon discrete choice dynamic programming model. Agents are ambiguity averse and seek robust decisions for a variety of alternative models. I study the implications for agents’ decisions and the design and impact of alternative policies.
+
+
+Publications
+^^^^^^^^^^^^
+
+Eisenhauer, Philipp and James J. Heckman, Edward Vytlacil (2015). `Generalized Roy Model and the Cost-Benefit Analysis of Social Programs <http://www.jstor.org/stable/10.1086/679498>`_, *Journal of Political Economy*, 123(2):413-443.
+
+Eisenhauer, Philipp and James J. Heckman, Stefano Mosso (2015). `Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_, *International Economic Review*, 56(2):331-357.
+
+ 
+Research Software
+^^^^^^^^^^^^^^^^^
+
+`respy <http://respy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model.
+
+
+
 
