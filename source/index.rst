@@ -10,8 +10,8 @@ I am an economist studying risk and ambiguity in economic models.  My current re
 
 Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/curriculum_vitae.pdf>`_ for more details.
 
-Working Papers
-^^^^^^^^^^^^^^
+Job Market Paper
+^^^^^^^^^^^^^^^^
 
 Eisenhauer, P. (2016). Risk and Ambiguity in Dynamic Models of Educational Choice. *Unpublished Manuscript*.
 
@@ -31,12 +31,8 @@ Teaching
 
 I organize my teaching efforts around the `Software Engineering for Economists Initiative <https://github.com/softEcon>`_.
 
- 
+
 Research Software
 ^^^^^^^^^^^^^^^^^
 
 `respy <http://respy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model.
-
-
-
-
