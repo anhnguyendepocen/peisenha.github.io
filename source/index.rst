@@ -10,12 +10,12 @@ I am an economist studying risk and ambiguity in economic models.  My current re
 
 Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/curriculum_vitae.pdf>`_ for more details.
 
-Job Market Paper
+Work in Progress
 ^^^^^^^^^^^^^^^^
 
-Eisenhauer, P. (2016). Risk and Ambiguity in Dynamic Models of Educational Choice. *Unpublished Manuscript*.
+Eisenhauer, P. (2016). Human Capital Investment under Risk and Ambiguity
 
-*	I instill a fear of model misspecification into the agents of a finite-horizon discrete choice dynamic programming model. Agents are ambiguity averse and seek robust decisions for a variety of alternative models. I study the implications for agents’ decisions and the design and impact of alternative policies.
+*	I instill a fear of model misspecification into the agents of a dynamic human capital model. Agents are ambiguity averse and seek robust decisions for a variety of alternative models. I study the implications for agents’ decisions and the design and impact of alternative policies.
 
 
 Publications
