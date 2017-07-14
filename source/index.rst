@@ -29,8 +29,7 @@ Eisenhauer, Philipp and James J. Heckman, Stefano Mosso (2015). `Estimation of D
 Teaching
 ^^^^^^^^
 
-I organize my teaching efforts around the `Econometrics of Policy Evaluation Initiative <https://github.com/policyMetrics>`_.
- and `Software Engineering for Economists Initiative <https://github.com/softEcon>`_.
+I organize my teaching efforts around the `Econometrics of Policy Evaluation <https://github.com/policyMetrics>`_ and `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
 
 
 Research Software
