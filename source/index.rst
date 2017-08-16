@@ -8,7 +8,7 @@ Philipp Eisenhauer
 
 I am an economist studying risk and ambiguity in economic models.  My current research focuses on the effect of ambiguity on human capital investments in dynamic life-cycle models. I hope to gain a better understanding of the observed investment patterns and the effectiveness of human capital policies.
 
-Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/curriculum_vitae.pdf>`_ for more details.
+Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/dist/eisenhauer_cv.pdf>`_ for more details.
 
 Work in Progress
 ^^^^^^^^^^^^^^^^
