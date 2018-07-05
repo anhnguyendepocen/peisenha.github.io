@@ -6,17 +6,9 @@
 Philipp Eisenhauer
 ==================
 
-I am an economist studying risk and ambiguity in economic models.  My current research focuses on the effect of ambiguity on human capital investments in dynamic life-cycle models. I hope to gain a better understanding of the observed investment patterns and the effectiveness of human capital policies.
+I am an economist studying the economics and econometrics of human capital investments.  My current research focuses on the effect of ambiguity on human capital investments in dynamic life-cycle models. I hope to gain a better understanding of the observed investment patterns and the effectiveness of human capital policies.
 
 Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/blob/master/dist/eisenhauer_cv.pdf>`_ for more details.
-
-Work in Progress
-^^^^^^^^^^^^^^^^
-
-Eisenhauer, P. (2016). Human Capital Investment under Risk and Ambiguity
-
-*	I instill a fear of model misspecification into the agents of a dynamic human capital model. Agents are ambiguity averse and seek robust decisions for a variety of alternative models. I study the implications for agents’ decisions and the design and impact of alternative policies.
-
 
 Publications
 ^^^^^^^^^^^^
@@ -25,14 +17,23 @@ Eisenhauer, Philipp and James J. Heckman, Edward Vytlacil (2015). `Generalized R
 
 Eisenhauer, Philipp and James J. Heckman, Stefano Mosso (2015). `Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_, *International Economic Review*, 56(2):331-357.
 
+Eisenhauer, Philipp (2018). `The Approximate Solution of Finite-Horizon Discrete Choice Dynamic Programming Models: Revisiting Keane & Wolpin (1994) <https://onlinelibrary.wiley.com/journal/10991255>`_, *Journal of Applied Econometrics*, conditionally accepted.
+
+Working Papers
+^^^^^^^^^^^^^^
+
+Eisenhauer, Philipp (2018). `Robust Human Capital Investment under Risk and Ambiguity
+(1994)`, under review.
 
 Teaching
 ^^^^^^^^
 
-I organize my teaching efforts around the `Econometrics of Policy Evaluation <https://github.com/policyMetrics>`_ and `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
+I organize my teaching efforts around the `Analysis of Human Capital <https://github.com/HumanCapitalEconomics>`_ and `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
 
 
 Research Software
 ^^^^^^^^^^^^^^^^^
 
 `respy <http://respy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model.
+
+`grmpy <http://grmpy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of the generalized Roy model.
