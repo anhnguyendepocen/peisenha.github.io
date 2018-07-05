@@ -17,13 +17,12 @@ Eisenhauer, Philipp and James J. Heckman, Edward Vytlacil (2015). `Generalized R
 
 Eisenhauer, Philipp and James J. Heckman, Stefano Mosso (2015). `Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_, *International Economic Review*, 56(2):331-357.
 
-Eisenhauer, Philipp (2018). `The Approximate Solution of Finite-Horizon Discrete Choice Dynamic Programming Models: Revisiting Keane & Wolpin (1994) <https://onlinelibrary.wiley.com/journal/10991255>`_, *Journal of Applied Econometrics*, conditionally accepted.
+Eisenhauer, Philipp (2018). `The Approximate Solution of Finite-Horizon Discrete Choice Dynamic Programming Models: Revisiting Keane & Wolpin (1994) <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-replication.pdf>`_, *Journal of Applied Econometrics*, conditionally accepted.
 
 Working Papers
 ^^^^^^^^^^^^^^
 
-Eisenhauer, Philipp (2018). `Robust Human Capital Investment under Risk and Ambiguity
-(1994)`, under review.
+Eisenhauer, Philipp (2018). `Robust Human Capital Investment under Risk and Ambiguity <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-robust.pdf>`_, under review.
 
 Teaching
 ^^^^^^^^
