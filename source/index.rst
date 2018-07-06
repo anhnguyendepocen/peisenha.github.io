@@ -27,7 +27,7 @@ Eisenhauer, Philipp (2018). `Robust Human Capital Investment under Risk and Ambi
 Teaching
 ^^^^^^^^
 
-I organize my teaching efforts around the `Analysis of Human Capital <https://github.com/HumanCapitalEconomics>`_ and `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
+I organize my teaching efforts around the `Analysis of Human Capital <https://github.com/HumanCapitalEconomics>`_, `Open Source Economics <https://github.com/OpenSourceEconomics>`_, and  `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
 
 
 Research Software
