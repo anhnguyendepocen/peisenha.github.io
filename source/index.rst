@@ -33,6 +33,6 @@ I organize my teaching efforts around the `Analysis of Human Capital <https://gi
 Research Software
 ^^^^^^^^^^^^^^^^^
 
-`respy <http://respy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model.
+`respy <http://respy.readthedocs.io/en/latest/index.html>`_ is an open-source package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model.
 
 `grmpy <http://grmpy.readthedocs.io/en/latest/index.html>`_ is an open-source Python package for the simulation and estimation of the generalized Roy model.
