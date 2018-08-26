@@ -13,16 +13,16 @@ Please see my `curriculum vitae <https://github.com/peisenha/curriculum_vitae/bl
 Publications
 ^^^^^^^^^^^^
 
-Eisenhauer, Philipp and James J. Heckman, Edward Vytlacil (2015). `Generalized Roy Model and the Cost-Benefit Analysis of Social Programs <http://www.jstor.org/stable/10.1086/679498>`_, *Journal of Political Economy*, 123(2):413-443.
+Eisenhauer, P., Heckman, J. J., & Vytlacil, E. (2015). `The generalized Roy model and the cost-benefit analysis of social programs. <http://www.jstor.org/stable/10.1086/679498>`_ *Journal of Political Economy, 123*(2), 413-443.
 
-Eisenhauer, Philipp and James J. Heckman, Stefano Mosso (2015). `Estimation of Dynamic Discrete Choice Models by Maximum Likelihood and the Simulated Method of Moments <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_, *International Economic Review*, 56(2):331-357.
+Eisenhauer, P., Heckman, J. J., & Mosso, S. (2015). `Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments. <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_ *International Economic Review, 56*(2), 331-357.
 
-Eisenhauer, Philipp (2018). `The Approximate Solution of Finite-Horizon Discrete Choice Dynamic Programming Models: Revisiting Keane & Wolpin (1994) <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-replication.pdf>`_, *Journal of Applied Econometrics*, conditionally accepted.
+Eisenhauer, P. (in press). `The approximate solution of finite-horizon discrete choice dynamic programming models: Revisiting Keane & Wolpin (1994). <https://onlinelibrary.wiley.com/doi/pdf/10.1002/jae.2648>`_ *Journal of Applied Econometrics*, conditionally accepted.
 
 Working Papers
 ^^^^^^^^^^^^^^
 
-Eisenhauer, Philipp (2018). `Robust Human Capital Investment under Risk and Ambiguity <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-robust.pdf>`_, under review.
+Eisenhauer, P. (2018). `Robust human capital investment under risk and ambiguity. <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-robust.pdf>`_ Manuscript submitted for publication.
 
 Teaching
 ^^^^^^^^
