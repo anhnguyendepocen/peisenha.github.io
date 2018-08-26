@@ -17,7 +17,7 @@ Eisenhauer, P., Heckman, J. J., & Vytlacil, E. (2015). `The generalized Roy mode
 
 Eisenhauer, P., Heckman, J. J., & Mosso, S. (2015). `Estimation of dynamic discrete choice models by maximum likelihood and the simulated method of moments. <http://onlinelibrary.wiley.com/doi/10.1111/iere.12107/abstract>`_ *International Economic Review, 56*(2), 331-357.
 
-Eisenhauer, P. (in press). `The approximate solution of finite-horizon discrete choice dynamic programming models: Revisiting Keane & Wolpin (1994). <https://onlinelibrary.wiley.com/doi/pdf/10.1002/jae.2648>`_ *Journal of Applied Econometrics*, conditionally accepted.
+Eisenhauer, P. (in press). `The approximate solution of finite-horizon discrete choice dynamic programming models: Revisiting Keane & Wolpin (1994). <https://onlinelibrary.wiley.com/doi/pdf/10.1002/jae.2648>`_ *Journal of Applied Econometrics*.
 
 Working Papers
 ^^^^^^^^^^^^^^
