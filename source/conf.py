@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Personal Hompepage'
+project = u'Personal Homepage'
 copyright = u'2016, Philipp Eisenhauer'
 author = u'Philipp Eisenhauer'
 
@@ -233,7 +233,7 @@ html_use_index = False
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PersonalHompepagedoc'
+htmlhelp_basename = 'PersonalHomepagedoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PersonalHompepage.tex', u'Personal Hompepage Documentation',
+    (master_doc, 'PersonalHomepage.tex', u'Personal Homepage Documentation',
      u'Philipp Eisenhauer', 'manual'),
 ]
 
@@ -295,7 +295,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'personalhompepage', u'Personal Hompepage Documentation',
+    (master_doc, 'personalhomepage', u'Personal Homepage Documentation',
      [author], 1)
 ]
 
@@ -310,8 +310,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PersonalHompepage', u'Personal Hompepage Documentation',
-     author, 'PersonalHompepage', 'One line description of project.',
+    (master_doc, 'PersonalHomepage', u'Personal Homepage Documentation',
+     author, 'PersonalHomepage', 'One line description of project.',
      'Miscellaneous'),
 ]
 
