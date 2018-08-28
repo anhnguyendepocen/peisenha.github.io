@@ -133,8 +133,7 @@ html_theme = 'alabaster'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Personal Hom
-epage v0.0.1'
+# html_title = u'Personal Homepage v0.0.1'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #

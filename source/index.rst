@@ -22,7 +22,7 @@ Eisenhauer, P. (in press). `The approximate solution of finite-horizon discrete 
 Working Papers
 ^^^^^^^^^^^^^^
 
-Eisenhauer, P. (2018). `Robust human capital investment under risk and ambiguity. <https://github.com/peisenha/peisenha.github.io/blob/master/material/eisenhauer-robust.pdf>`_ Manuscript submitted for publication.
+Eisenhauer, P. (2018). `Robust human capital investment under risk and ambiguity. <https://github.com/peisenha/peisenha.github.io/blob/master/material/eaisenhauer-robust.pdf>`_ Revise and resubmit at the Journal of Econometrics.
 
 Teaching
 ^^^^^^^^
