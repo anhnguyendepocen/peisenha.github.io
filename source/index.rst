@@ -31,7 +31,7 @@ Bhuller, M., & Eisenhauer, P. (2018). *The option value of human capital investm
 
 Eisenhauer, P. (2018). *The robust career decisions of young men.* Unpublished manuscript.
 
-Eisenhauer,P., & Scheidegger, S. (2018). *The risk of human capital investments.* Unpublished manuscript.
+Eisenhauer, P., & Scheidegger, S. (2018). *The risk of human capital investments.* Unpublished manuscript.
 
 Teaching
 ^^^^^^^^
