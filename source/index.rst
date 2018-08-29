@@ -27,6 +27,8 @@ Eisenhauer, P. (2018). `Robust human capital investment under risk and ambiguity
 Research in Progress
 ^^^^^^^^^^^^^^^^^^^^
 
+Bhuller, M., & Eisenhauer, P. (2018). *The option value of human capital investment.* Unpublished manuscript.
+
 Eisenhauer, P. (2018). *The robust career decisions of young men.* Unpublished manuscript.
 
 Teaching
