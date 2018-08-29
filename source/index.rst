@@ -24,6 +24,11 @@ Working Papers
 
 Eisenhauer, P. (2018). `Robust human capital investment under risk and ambiguity. <https://github.com/peisenha/peisenha.github.io/blob/master/material/eaisenhauer-robust.pdf>`_ Revise and resubmit at the Journal of Econometrics.
 
+Research in progress
+^^^^^^^^^^^^^^^^^^^^
+
+Eisenhauer, P. (2018). *The robust career decisions of young men.* Unpublished manuscript.
+
 Teaching
 ^^^^^^^^
 
