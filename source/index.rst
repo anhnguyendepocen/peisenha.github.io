@@ -36,7 +36,7 @@ Eisenhauer, P., & Scheidegger, S. (2018). *The risk of human capital investments
 Teaching
 ^^^^^^^^
 
-I organize my teaching efforts around the `Analysis of Human Capital <https://github.com/HumanCapitalEconomics>`_, `Open Source Economics <https://github.com/OpenSourceEconomics>`_, and  `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
+I organize my teaching efforts around the `Analysis of Human Capital <https://github.com/HumanCapitalAnalysis>`_, `Open Source Economics <https://github.com/OpenSourceEconomics>`_, and  `Software Engineering for Economists <https://github.com/softEcon>`_ Initiatives.
 
 
 Research Software
